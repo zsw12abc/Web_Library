@@ -39,3 +39,7 @@ Download: http://quantumui.org/
 特殊的弹窗效果
 效果展示: http://t4t5.github.io/sweetalert/
 
+## Html Email教程
+http://www.ruanyifeng.com/blog/2013/06/html_email.html
+
+
